@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BalancedFate
+- 👀 I’m interested in Coding games and artwork
+- 🌱 I’m currently learning vedio game design
